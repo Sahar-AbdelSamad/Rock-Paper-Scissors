@@ -1,0 +1,15 @@
+#choice{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 50px;
+}
+div button{
+    flex:1;
+}
+#4 {
+    display: block;
+}
+h1{
+    color:blue;
+}
